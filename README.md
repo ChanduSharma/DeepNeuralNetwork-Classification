@@ -37,4 +37,8 @@ The data set was taken from the Fashion MNIST repository by zalandoresearch. The
 
 ## Output
 
-The output is a image with predicted label, it's confidence score and true label
+The output is a image with predicted label, it's confidence score and true label. The corresponding image is a bar plot representing the confidence of neural network for the predicted label.
+![alt Sample Output](https://github.com/ChanduSharma/DeepNeuralNetwork-Classification/blob/master/Figure_2.png)
+
+## Usage
+Run `python main.py`
