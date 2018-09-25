@@ -40,5 +40,9 @@ The data set was taken from the Fashion MNIST repository by zalandoresearch. The
 The output is a image with predicted label, it's confidence score and true label. The corresponding image is a bar plot representing the confidence of neural network for the predicted label.
 ![alt Sample Output](https://github.com/ChanduSharma/DeepNeuralNetwork-Classification/blob/master/Figure_2.png)
 
+I have shown some output images along with their predicted label(inside parenthesis) , confidence and true label. However,they were all correctly classified. So, i have added this another image which contains images which were wrongly classified.
+
+![alt Sample False output](https://github.com/ChanduSharma/DeepNeuralNetwork-Classification/blob/master/Figure_3.png)
+
 ## Usage
 Run `python main.py`
